@@ -4,16 +4,19 @@
 
 ## Website Preview
 ### Home Page
-<img src="main.png" width="800">
+<img src="home.png" width="800">
 
-### Customer List
-<img src="customer_list.png" width="800">
+### Users
+<img src="view user.png" width="800">
+
+### Participants List
+<img src="transfer money.png" width="600">
 
 ### Sending Procedure
-<img src="send.png" width="600">
+<img src="transferring.png" width="600">
 
 ### Transaction History
-<img src="detail.png" width="600">
+<img src="transaction history.png" width="600">
   
 
 
