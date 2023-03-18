@@ -57,12 +57,12 @@ INSERT INTO `users` (`ID`, `Name`, `Email`, `Balance`) VALUES
 (2, 'surya ', 'surya@gmail.com', 1300),
 (3, 'Shrey', 'shrey@gmail.com', 10000),
 (4, 'Surpreet', 'surpreet@gmail.com', 11333),
-(5, 'sita', 'sita@gmail.com', 9000),
-(6, 'Riuta', 'riuta@gmail.com', 12000),
-(7, 'mukul', 'mukul@gmail.com', 33000),
-(8, 'rishi', 'rishi@gmail.com', 45000),
-(9, 'priyesh', 'priyesh@gmail.com', 89000),
-(10, 'aditya', 'aditya@gmail.com', 34000);
+(5, 'Ipsita', 'ipsita@gmail.com', 50000),
+(6, 'Rijuta', 'rijuta@gmail.com', 20000),
+(7, 'Vidyut', 'vidyut@gmail.com', 40000),
+(8, 'Harish', 'harish@gmail.com', 12000),
+(9, 'Mugdha', 'mugdha@gmail.com', 25000),
+(10, 'Nidhi', 'nidhi@gmail.com', 10000);
 
 --
 -- Indexes for dumped tables
