@@ -21,13 +21,13 @@
 
 
 ## Sections 📚
-✔️ Home Page\
-✔️ Users\
-✔️ Transfer money\
-✔️ Sending procedure\
-✔️ Transaction History\
+✔️ Home Page
+✔️ Users
+✔️ Transfer money
+✔️ Sending procedure
+✔️ Transaction History
 
 
 
 ## Tools Used 🛠️
- (PHP,CSS,JS).
+ PHP , CSS , JS
