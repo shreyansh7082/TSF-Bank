@@ -21,10 +21,10 @@
 
 
 ## Sections 📚
-✔️ Home Page
-✔️ Users
-✔️ Transfer money
-✔️ Sending procedure
+✔️ Home Page\
+✔️ Users\
+✔️ Transfer money\
+✔️ Sending procedure\
 ✔️ Transaction History
 
 
